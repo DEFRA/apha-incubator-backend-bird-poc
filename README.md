@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository has been archived.** It is no longer maintained and is read-only.
+> Please follow [DEFRA/apha-incubator-core](https://github.com/DEFRA/apha-incubator-core) for ongoing updates.
+
 # apha-incubator-backend-bird-poc
 
 Core delivery platform Node.js Backend Template.
